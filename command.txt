@@ -1,0 +1,1 @@
+sonar -D sonar.host.url=http://localhost:9000 -D sonar.token=sqp_1448758ce057d88948fd010ef707921650f5391b -D sonar.projectKey=todo-ui-monolithic
